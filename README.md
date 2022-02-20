@@ -1,4 +1,4 @@
-#Jail Stay Analysis
+# Jail Stay Analysis
 
 Looking at jail stays based on daily information from the [Buncombe County jail listing](https://buncombecountyso.policetocitizen.com/Inmates/Catalog).
 
