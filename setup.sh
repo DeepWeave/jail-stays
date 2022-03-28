@@ -5,4 +5,5 @@
  conda install sqlalchemy psycopg2
  conda install -c conda-forge python-dotenv
  conda install matplotlib
+ conda install seaborn
  jupyter notebook&
